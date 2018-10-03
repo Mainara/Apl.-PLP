@@ -9,6 +9,7 @@ using namespace std;
 int main(){
 	
 	int n;
+	printf("Digite a quantidade de livros");
 	cin >> n;
 	vector<string> livros;
 	string livro;
